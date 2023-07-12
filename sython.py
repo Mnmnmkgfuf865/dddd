@@ -10,7 +10,7 @@ import re
 api_id_bot = 19530787  # اب ايدي
 api_hash_bot = "b9d5bec9d22501ee256ba9cee556cae7"  # اب هاش
 bot = TelegramClient("Bot", api_id_bot, api_hash_bot).start(
-    bot_token="6234012778:AAGRtho8Zn5Ijy-ud4Srlo1_sdb_zJAS7D8"
+    bot_token="6335197909:AAHn_GI0IQOPdFxLfJ9oR_py1aEmP1Vc-Hw"
 )
 
 owner_id = [5207032121]  # ايديك
